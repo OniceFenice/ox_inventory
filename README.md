@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This is a fork for personal use and only that. i have no intent to rebrand or profit from this fork or its code!
+> i will stay complaint to the terms set forth by its creators and in such shall comply to any and all requests by
+>
+@thelindat Or @overextended
 # ox_inventory
 
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
