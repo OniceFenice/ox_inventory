@@ -58,6 +58,7 @@ end
 ---@param entityId number
 ---@return number | string
 ---@diagnostic disable-next-line: duplicate-set-field
+---@(old reference): return Ox.GetVehicle(entityId)?.id
 function server.getOwnedVehicleId(entityId)
-    return Ox.GetVehicle(entityId)?.id
+    return Ox.GetVehicleFromEntity(entityId)?.id    
 end
