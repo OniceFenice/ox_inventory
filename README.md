@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > This is a fork for personal use and only that. i have no intent to rebrand or profit from this fork or its code!
 > i will stay complaint to the terms set forth by its creators and in such shall comply to any and all requests by
-> /thelindat /overextended /CommunityOx
+> /[Linden](https://github.com/thelindat) /[OverExtended](https://github.com/overextended) /[CommunityOx](https://github.com/CommunityOx)
 >
 
 # ox_inventory
